@@ -1,6 +1,15 @@
 # Aaron's User Page
 ## Aaron Arellano, A17376822
-
+![Image](ucsd_logo.png)
+\
+## My Experience ##
+- Java
+- Python
+- C
+- C++
+- Basic HTML
+## About Me ##
+\
 Hello! My name is **Aaron Arellano**, and I'm currently a 2nd year CS major here at _UCSD_, trying to learn more about software engineering!
 Im from Chula Vista, while the rest of my family is from Tj. Essentially Im a first generation college student here in the US! \
 When Im not programming or working on school assignments, Im either playing with my neighbors cat, attempting to draw like picasso (i fail miserably) playing playstation games, watching whatever TV show is popular, or taking mobile gaming way too seriously :) \
@@ -10,7 +19,7 @@ I like to consider myself as hardworking, as I always strive to put in my 100% e
 As for my ~~adequate~~ programming skills, I've used a few different technologies and programming languages. I first started learning _CS_ during my junior year of high school, that was when I was using scratch to learn the basics and fundamentals. Scratch was a fun and interactive platform that introduced me to programming concepts, such as variable declaration, loops and functions. 
 
 \
-\
+
 During the second semester of my junior year, thats when I first transitioned to actual written programming languages, with my first one being python because of its simplicity and understandable syntax. Thats when I learned more complex concepts of _CS_, such as Arrays, Lists, Dictionaries, etc. I also learned a few basic features of HTML near the end of the course. This was also the first time where I wrote the famous line of code for all programmers:
 ```
 print("Hello World!")
